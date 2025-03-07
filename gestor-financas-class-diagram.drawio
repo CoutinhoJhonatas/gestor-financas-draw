@@ -123,8 +123,8 @@
             <mxPoint x="21" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SSWxGTF1WEpYmRGd-3fQ-41" value="conta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="860" as="geometry">
+        <mxCell id="SSWxGTF1WEpYmRGd-3fQ-41" value="contaBancaria" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="390" y="860" as="geometry">
             <mxPoint x="-8" y="32" as="offset" />
           </mxGeometry>
         </mxCell>
